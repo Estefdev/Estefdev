@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img width="375" alt="Estefdev (2)" src="https://user-images.githubusercontent.com/113647593/230732606-9d12703b-bd0c-4e9d-8b04-5991cd4ea4de.png">
+<img width="375" alt="Estefdev (2)1" src="https://user-images.githubusercontent.com/113647593/230732751-a8b101b5-7cfb-405b-8d11-32f2978dc9c3.png">
+
 
 ```js
 const Estefdev = {

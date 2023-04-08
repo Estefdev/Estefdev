@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img width="375" alt="Estefdev (2)1" src="https://user-images.githubusercontent.com/113647593/230732751-a8b101b5-7cfb-405b-8d11-32f2978dc9c3.png">
+![Estefdev](https://user-images.githubusercontent.com/113647593/230733004-80261c40-d4be-4253-9df8-ba052ec3e6b8.png)
+
 
 
 ```js

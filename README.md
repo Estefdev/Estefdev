@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Estefdev](https://user-images.githubusercontent.com/113647593/230732576-09f65289-ab31-4586-b957-581fc57731e0.png)
+
+<img width="375" alt="Estefdev (2)" src="https://user-images.githubusercontent.com/113647593/230732606-9d12703b-bd0c-4e9d-8b04-5991cd4ea4de.png">
 
 ```js
 const Estefdev = {

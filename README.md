@@ -1,4 +1,14 @@
 ### Hi there 👋
+![Estefdev](https://user-images.githubusercontent.com/113647593/230732576-09f65289-ab31-4586-b957-581fc57731e0.png)
+
+```js
+const Estefdev = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node],
+  }
+  ```
+ 
 
 <!--
 **Estefdev/Estefdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-
-![Estefdev (6)](https://user-images.githubusercontent.com/113647593/230734171-6256ef49-bf12-4fe1-9a7d-4cb891733c8a.png)
-
+![Estefdev (6)11](https://user-images.githubusercontent.com/113647593/230734268-a3951128-1cd5-4f37-8a0d-43f561a65370.png)
 
 
 ```js

@@ -34,7 +34,6 @@ You can find me 🌍 :
 ---
 
 #### 🎧 Listening | Spotify Playing
-
 [<img width="699" src="https://user-images.githubusercontent.com/113647593/232872155-a1669908-f402-4a07-b618-7a7119f0ab37.png">](https://open.spotify.com/playlist/6ck3rYLGEOELZjQnUE0srv)
 
 
